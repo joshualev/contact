@@ -1,0 +1,37 @@
+.card-container {
+  padding: 2em;
+  height: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  font-size: 0.75rem;
+  line-height: 0.1em;
+  letter-spacing: 0.3px;
+  text-align: center;
+  background: #00BFFF;
+  border: none;
+  margin-bottom: 0.6em;
+  border-radius: 5px;
+
+  cursor: pointer;
+  transition: tranmsform 0.35s ease-out;
+
+  &.card-container:hover {
+    transform: scale(0.99);
+    opacity: 0.9;
+  }
+  
+  h3 {
+    font-weight: 900;
+  }
+  p {
+    font-weight: 700;
+  }
+}
+
+@media only screen and (max-width: 758px) {
+  .card-container  {
+    margin-bottom: 0;
+  }
+}

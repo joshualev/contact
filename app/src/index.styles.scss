@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Nunito Sans', sans-serif;
+  text-shadow: 1px 1px 0.5px rgba(0,0,0,0.2);
+  color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #1da1f2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
