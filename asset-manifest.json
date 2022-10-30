@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joshualev.github.io/static/css/main.a197fc9a.css",
+    "main.js": "/joshualev.github.io/static/js/main.f60a9326.js",
+    "static/js/787.c1112931.chunk.js": "/joshualev.github.io/static/js/787.c1112931.chunk.js",
+    "static/media/contact-photo.svg": "/joshualev.github.io/static/media/contact-photo.89710c96a712efc8cc5b8072c61e1538.svg",
+    "index.html": "/joshualev.github.io/index.html",
+    "main.a197fc9a.css.map": "/joshualev.github.io/static/css/main.a197fc9a.css.map",
+    "main.f60a9326.js.map": "/joshualev.github.io/static/js/main.f60a9326.js.map",
+    "787.c1112931.chunk.js.map": "/joshualev.github.io/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a197fc9a.css",
+    "static/js/main.f60a9326.js"
+  ]
+}
